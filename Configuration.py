@@ -1,0 +1,6 @@
+host_url="https://integrationlab.netbraintech.com"               
+user="XXXXX"                   
+pwd="XXXXX"                   
+#ldapname=""
+tenant_id="40e0032e-14e7-4fea-7d00-8fe8bd65efae"
+domain_id="b924c2f0-7210-43ba-9cdd-d1757ae23742"
